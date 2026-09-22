@@ -1,0 +1,14 @@
+{
+  "id": "session-notes",
+  "name": "会话便签",
+  "version": "0.1.0",
+  "sdkVersion": "^0.3",
+  "minAppVersion": "1.0.6",
+  "author": "YOUR-GITHUB-USERNAME",
+  "description": "给任意会话贴上本地便签：右侧面板编辑当前会话备注、右键菜单直达、列表统一管理，数据仅存本机。",
+  "repo": "YOUR-GITHUB-USERNAME/ccgui-plugin-session-notes",
+  "license": "MIT",
+  "keywords": ["notes", "session", "memo", "annotation", "便签"],
+  "tier": "js",
+  "permissions": ["storage", "events", "ui:panel-tab", "ui:session-menu"]
+}
